@@ -1,11 +1,11 @@
 # Hi, I'm Qifeng Hu 👋
 
-PhD Candidate in Mechanical Engineering at the University of Pittsburgh, specializing in scientific machine learning for solving partial differential equations. My research centers on physics- and equality-constrained neural networks (PECANNs) — developing constrained-optimization methods and parallel domain-decomposition techniques to make physics-informed learning more scalable and reliable.
+PhD Candidate in Mechanical Engineering at the University of Pittsburgh (graduating December 2026), specializing in scientific machine learning for solving partial differential equations. My research advances physics-informed ML through constrained optimization — specifically, a conditionally adaptive augmented Lagrangian method (CA-ALM) for physics- and equality-constrained neural networks (PECANNs) — together with a corresponding domain-decomposition method for parallel computing that makes physics-informed learning more scalable and reliable.
 
-- 🔭 Currently working on **PECANNs for fracture mechanics**, as a Machine Learning Intern at Ansys (Synopsys), estimating stress intensity factors
-- 🌱 Currently refining **Schwarz-type domain decomposition** for scaling physics-informed ML to multi-scale problems
-- 👯 Looking to collaborate on open-source physics-informed ML / scientific computing projects
-- 💬 Ask me about PINNs, constrained optimization (augmented Lagrangian methods), CFD, or HPC (SLURM/OpenMPI/GPU)
+- 🔭 Currently working on **PECANNs for aerodynamic shape optimization**
+- 🌱 Currently revising **PECANNs for the incompressible Navier–Stokes equations**, trained in a fully unsupervised manner to strengthen forward-problem performance and unlock the full potential of a mesh-free, differentiable formulation — advantages that show up elsewhere: in data assimilation, inverse problems, and parametric sweeps
+- 👯 Looking to collaborate on open-source physics-informed ML / scientific computing projects, and open to industry opportunities
+- 💬 Ask me about PINNs, constrained optimization, CFD, or HPC (SLURM/OpenMPI/GPU)
 
 ## Background
 MS in Aerospace Computational Engineering, Cranfield University · BS in Automotive Engineering, Wuhan University of Technology. Previously a computational engineer at Sun Yat-sen University, running high-fidelity CFD simulations of full-scale aircraft aerodynamics.
