@@ -2,7 +2,7 @@
 
 PhD Candidate in Mechanical Engineering at the University of Pittsburgh (graduating December 2026), specializing in scientific machine learning for solving partial differential equations. My research advances physics-informed ML through constrained optimization — specifically, a conditionally adaptive augmented Lagrangian method (CA-ALM) for physics- and equality-constrained neural networks (PECANNs) — together with a corresponding domain-decomposition method for parallel computing that makes physics-informed learning more scalable and reliable.
 
-- 🔭 Currently working on **PECANNs for aerodynamic shape optimization**
+- 🔭 Currently working on **physics-informed ML for aerodynamic shape optimization**
 - 🌱 Currently revising **PECANNs for the incompressible Navier–Stokes equations**, trained in a fully unsupervised manner to strengthen forward-problem performance and unlock the full potential of a mesh-free, differentiable formulation — advantages that show up elsewhere: in data assimilation, inverse problems, and parametric sweeps
 - 👯 Looking to collaborate on open-source physics-informed ML / scientific computing projects, and open to industry opportunities
 - 💬 Ask me about PINNs, constrained optimization, CFD, or HPC (SLURM/OpenMPI/GPU)
